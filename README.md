@@ -17,11 +17,14 @@ https://webrecorder.io/kathi_gkr/demonetisation-in-india
 * Providing information which says that the document has been saved would be useful when the user clicks on the link he scrolled already.
 * Was not able to capture the video through Web Recorder https://webrecorder.io/kathi_gkr/demonetisation-in-india/20171008200902/https://www.cnbc.com/2016/12/04/demonetization-news-modis-cash-curbs-in-india-spark-long-lines.html
 
+
+
 ## Archive-It
 
 * It is easy to add seeds in the Archive-It and start the crawl. From the user perspective it has simple interface.
 * When the crawl finishes, the seeds shows the link to the wayback machine, but we cannot access the resource in the next 24 hours. I feels it is better not to show the link till the resource is accessible.
 * I was not able to access this link, later I realised it is because of robots.txt file.  http://wayback.archive-it.org/9541/20171008230305/http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/Petty-fights-long-queues-at-petrol-outlets-mark-day-after-demonetisation-of-notes/article16276487.ece   
+![alt text](week6/pic1.PNG)
 
 ## WarCreate
 
