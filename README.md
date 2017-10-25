@@ -11,6 +11,7 @@ https://webrecorder.io/kathi_gkr/demonetisation-in-india
 * Best part is we can capture the events we want to focus on particularly by navigating to the specific links.
 * Through web recorder one disadvantage is that one has to remember the events he saved if he wants to access the embedded link once again   which can cause problem in long term when the person want to navigate from within the page.
 * Providing information which says that the document has been saved would be useful when the user clicks on the link he scrolled already.
+* Was not able to capture the video through Web Recorder https://webrecorder.io/kathi_gkr/demonetisation-in-india/20171008200902/https://www.cnbc.com/2016/12/04/demonetization-news-modis-cash-curbs-in-india-spark-long-lines.html
 
 ## Archive-It
 
