@@ -40,6 +40,8 @@ https://webrecorder.io/kathi_gkr/demonetisation-in-india
 ## Reflection
 * I feel 15 seeds would accurately characterize the topic, given if the user is able to identify the seeds appropriately. At the same time if user want to capture timely sequences the number of seeds would increase simultaneoulsy. 
 * In the future  my collection could be used to understand the immediate effect of immense changes like demonetization. One could understand the chaos created and can make sure such things will not be repeated again.
+*  I haven't observed any changes in the resources except one in web recorder. I was not able to play the video which I recorded last time. 
+https://webrecorder.io/kathi_gkr/demonetisation-in-india/20171008191309/https://blogs.wsj.com/indiarealtime/2016/11/08/full-text-of-indian-prime-minister-narendra-modis-speech-on-replacing-largest-rupee-notes/
 
 
 
