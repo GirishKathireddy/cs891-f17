@@ -4,6 +4,9 @@ Class page for ODU CS 791 / 891 Web Archiving Seminar
 https://archive-it.org/collections/9541
 
 https://webrecorder.io/kathi_gkr/demonetisation-in-india
+ 
+ Link to the seeds: https://github.com/GirishKathireddy/cs891-f17/blob/master/week6/index.html
+
 
 ## Experience with tools
 ## WebRecorderIO
