@@ -15,6 +15,7 @@ https://webrecorder.io/kathi_gkr/demonetisation-in-india
 * Best part is we can capture the events we want to focus on particularly by navigating to the specific links.
 * Through web recorder one disadvantage is that one has to remember the events he saved if he wants to access the embedded link once again   which can cause problem in long term when the person want to navigate from within the page.
 * Providing information which says that the document has been saved would be useful when the user clicks on the link he scrolled already.
+* I would use WebRecorder for recording videos and when I have free time enough to click links manually.
 * Was not able to capture the video through Web Recorder https://webrecorder.io/kathi_gkr/demonetisation-in-india/20171008200902/https://www.cnbc.com/2016/12/04/demonetization-news-modis-cash-curbs-in-india-spark-long-lines.html
 
 ![alt text](week6/pic1.PNG)
@@ -24,6 +25,7 @@ https://webrecorder.io/kathi_gkr/demonetisation-in-india
 
 * It is easy to add seeds in the Archive-It and start the crawl. From the user perspective it has simple interface.
 * When the crawl finishes, the seeds shows the link to the wayback machine, but we cannot access the resource in the next 24 hours. I feels it is better not to show the link till the resource is accessible.
+* I prefer to use Archive-It for centralized collection since I can save documents from any location or from University Libraries etc. 
 * I was not able to access this link, later I realised it is because of robots.txt file.  http://wayback.archive-it.org/9541/20171008230305/http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/Petty-fights-long-queues-at-petrol-outlets-mark-day-after-demonetisation-of-notes/article16276487.ece   
 
 
